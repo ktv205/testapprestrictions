@@ -5,7 +5,7 @@ and exposed to the EMMs
 EMMs can pull the restriction info from your app xml and change those values
 You have to listen to those changes to apply the changes your self in your app
 
-Go Through http://developer.android.com/training/enterprise/app-restrictions.html documentation
+Go through http://developer.android.com/training/enterprise/app-restrictions.html documentation
 and two sample apps 
 http://developer.android.com/samples/AppRestrictionSchema/index.html 
 http://developer.android.com/samples/AppRestrictionEnforcer/index.html
