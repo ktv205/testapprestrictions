@@ -1,5 +1,5 @@
 # testapprestrictions
-This is an test app to test the and implement the app restrictions in your app that you defined in your xml 
+This is an app to test the and implement the app restrictions in your app that you defined in your xml 
 and exposed to the EMMs
 
 EMMs can pull the restriction info from your app xml and change those values
